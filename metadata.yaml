@@ -1,0 +1,33 @@
+_repo: The-Awakening-of-Helena-Richie_6315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Deland, Margaret Wade Campbell
+    alias: Campbell, Margaretta Wade
+    birthdate: 1857
+    deathdate: 1945
+    gutenberg_agent_id: '888'
+    url: http://www.gutenberg.org/2009/agents/888
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Deland
+description: "The Awakening of Helena Richie is a novel by the American writer Margaret\
+  \ Deland (1857 - 1945) set in the 19th century fictional locale of Old Chester,\
+  \ a Western Pennsylvania rural village just a few miles outside the city of Pittsburgh,\
+  \ then an industrial boomtown.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6315'
+  wikidata: Q7715074
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Women -- Fiction'
+- GITenberg
+title: The Awakening of Helena Richie
+url: http://www.gutenberg.org/ebooks/6315
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Awakening_of_Helena_Richie
