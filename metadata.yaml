@@ -1,5 +1,8 @@
 _repo: The-Awakening-of-Helena-Richie_6315
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Deland, Margaret Wade Campbell
@@ -13,6 +16,8 @@ description: "The Awakening of Helena Richie is a novel by the American writer M
   \ Deland (1857 - 1945) set in the 19th century fictional locale of Old Chester,\
   \ a Western Pennsylvania rural village just a few miles outside the city of Pittsburgh,\
   \ then an industrial boomtown.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6315#The-Awakening-of-Helena-Richie
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
